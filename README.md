@@ -51,7 +51,7 @@ Il progetto utilizza un'architettura **disaccoppiata** per garantire la massima 
 
 1.  **Clona il repository**:
     ```bash
-    git clone https://github.com/tuo-user/gestione-cartelline.git
+    git clone https://github.com/mykybulle/Gestionale-Per-Documenti.git
     cd gestione-cartelline
     ```
 
